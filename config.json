@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercalculate",
+        "uuid": 9746066,
+        "checksum": "fm2d4t"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
